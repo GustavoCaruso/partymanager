@@ -1,0 +1,6 @@
+@partymanager_HostAddress = http://localhost:5035
+
+GET {{partymanager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
